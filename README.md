@@ -1,0 +1,2 @@
+# Terraform_Deploy_EC2_with_Instance_Role_Attached
+Deploy EC2 Instance using Terraform code
